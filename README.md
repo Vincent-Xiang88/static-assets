@@ -43,7 +43,9 @@ https://cdn.jsdelivr.net/gh/<GitHub用户名>/<仓库名>@<提交SHA>/<文件路
 Example:
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yourusername/static-assets@e7b1d94/css/main.css">
+
 <script src="https://cdn.jsdelivr.net/gh/yourusername/static-assets@e7b1d94/js/app.js"></script>
+
 <img src="https://cdn.jsdelivr.net/gh/yourusername/static-assets@e7b1d94/images/logo.svg">
 ```
 
@@ -57,7 +59,9 @@ https://cdn.jsdelivr.net/gh/<GitHub用户名>/<仓库名>@<版本号>/<文件路
 Example:
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yourusername/static-assets@v1.0.0/css/main.css">
+
 <script src="https://cdn.jsdelivr.net/gh/yourusername/static-assets@v1.0.0/js/app.js"></script>
+
 <img src="https://cdn.jsdelivr.net/gh/yourusername/static-assets@v1.0.0/images/logo.svg">
 ```
 
