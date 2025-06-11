@@ -14,6 +14,10 @@ js/
 
 images/
   └── logo.svg        ← Sample SVG icon
+
+mp3/
+  └── song.mp3        ← Sample SVG icon
+
 ```
 
 ## 🚀 Usage via jsDelivr
