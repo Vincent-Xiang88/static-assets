@@ -16,7 +16,7 @@ images/
   └── logo.svg        ← Sample SVG icon
 
 mp3/
-  └── song.mp3        ← Sample SVG icon
+  └── song.mp3        ← Sample mp3 file
 
 ```
 
