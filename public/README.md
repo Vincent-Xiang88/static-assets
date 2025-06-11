@@ -17,11 +17,11 @@ To provide a browsable file list at `/music/`, edit `public/music/index.html` ma
 
 ### How to update:
 
-1. Go to GitHub repository → `public/music/index.html`
+1. Go to GitHub repository → `public/index.html`
 2. Add new `<li>` entries inside the `<ul>` tag like:
 
 ```html
-<li><a href="new-file.mp3">new-file.mp3</a></li>
+<li><a href="music/new-file.mp3">new-file.mp3</a></li>
 ```
 
 3. Commit changes to trigger re-deploy.
